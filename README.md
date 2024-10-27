@@ -1,4 +1,4 @@
-# git-tutorial
+  # First repository GitHub tutorial
 > First repository created in GitHub
 
 ## Description
